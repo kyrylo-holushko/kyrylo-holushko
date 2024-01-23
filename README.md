@@ -3,3 +3,5 @@
 #### Public portfolio projects are below:
 
 https://next-app-bags.vercel.app/ (postgres-api, next-app)
+
+https://proof-of-concept-gab.vercel.app/ (proof-of-concept)
